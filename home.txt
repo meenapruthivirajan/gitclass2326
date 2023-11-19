@@ -3,3 +3,4 @@ line2
 line3
 this is my file
 my first logo
+hi hello
